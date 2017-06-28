@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">NumberShapes</string>
+
+    <string-array name="American_Units">
+
+        <item>Miles</item>
+        <item>Feet</item>
+        <item>Inches</item>
+        <item>mph</item>
+        <item>Fahrenheit</item>
+        <item>Pounds</item>
+        <item>Stones</item>
+        <item>Ounces(Oz)</item>
+        <item>fl. Oz</item>
+        <item>gallons</item>
+    </string-array>
+
+    <string-array name="Metric_Units">
+
+        <item>Km</item>
+        <item>Meters</item>
+        <item>cm</item>
+        <item>kph</item>
+        <item>Celsius</item>
+        <item>Kg</item>
+        <item>g</item>
+        <item>Litres</item>
+    </string-array>
+
+
+
+
+</resources>
